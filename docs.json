@@ -24,9 +24,9 @@
             "group": "Prizes",
             "pages": [
               "prizes/how-to-explore-prizes",
-              "prizes/vote-for-the-next-speciality",
-              "prizes/submit-a-prize",
-              "prizes/report-an-error"
+              "prizes/how-to-submit-a-prize",
+              "prizes/how-to-report-an-error",
+              "prizes/vote-for-the-next-speciality"
             ]
           },
           {
