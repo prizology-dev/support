@@ -17,8 +17,14 @@
             "group": "Get Started",
             "pages": [
               "started/what-is-prizology",
-              "started/how-to-sign-up",
-              "development"
+              "started/how-to-sign-up"
+            ]
+          },
+          {
+            "group": "Prizes",
+            "pages": [
+              "prizes/how-to-explore-prizes",
+              "started/how-to-sign-up"
             ]
           },
           {
@@ -74,11 +80,6 @@
           "anchor": "Prizology",
           "href": "https://prizology.net",
           "icon": "trophy"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
