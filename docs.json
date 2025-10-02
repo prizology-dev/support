@@ -37,6 +37,14 @@
             ]
           },
           {
+            "group": "Premium",
+            "pages": [
+              "premium/what-does-premium-include",
+              "premium/how-to-purchase-premium",
+              "premium/how-to-manage-my-premium-status"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
