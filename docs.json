@@ -30,6 +30,13 @@
             ]
           },
           {
+            "group": "Accounts",
+            "pages": [
+              "accounts/how-to-view-account-details",
+              "accounts/how-to-manage-your-data"
+            ]
+          },
+          {
             "group": "Customization",
             "pages": [
               "essentials/settings",
